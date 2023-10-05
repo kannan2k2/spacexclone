@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Open+Sans:wght@400;600;700&family=Roboto:wght@300&display=swap');
+
+.spx-all{
+    position: fixed;
+    display: flex;
+    gap: 30px;
+    padding-top:20px;
+    margin: 0px;
+    padding: 0px;
+
+}
+.navbar-a{
+    display: flex;
+    color: white;
+    gap: 20px;
+    padding-top: 40px;
+    padding-left: 50px;
+}
+.spx-text{
+    width: 200px;
+ 
+}
+.spx-text img{
+position: fixed;
+}
+.full-body{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 2900px;
+    background-size: cover;
+}
+.full-body1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 700px;
+    background-image:url("Star6_19_092923_DSC_8052_3_desktop_e1c637e394.jpg");
+    background-size: cover;
+}
+.full-body2{
+    position: absolute;
+    top:700px;
+    left: 0px;
+    width: 100%;
+    height: 700px;
+    background-image:url("/Starlink_G7_3_OS_56_5196_Desktop_501dcd8c6a.jpg");
+    background-size: cover;
+}
+.full-body3{
+    position: absolute;
+    background-image:url(Crew_6_Desktop_9857f5c2f0.jpg);
+    top: 1400px;
+    left: 0px;
+    width:100%;
+    height: 700px;
+    background-size:cover ;
+}
+.full-body4{
+    position: absolute;
+    top: 2100px;
+    left:0px;
+    height: 700px;
+    width: 100%;
+    background-size: cover;
+    background-image: url(STARSHIP_Testflight_DESKTOP_2b3bea613a.jpg);
+}
+
+.spx-sop{
+    margin-left:200px ;
+}
+.nxt-sec{
+    
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    right:200px;
+    gap: 600px;
+    top: 400px;
+    color: white;
+    height: 1000px;
+}
+.nex-scc{
+   position: relative;
+   bottom: 100px;
+   height: 10px;
+    font-family: "Gabarito","sans-serif";
+    font-size: 40px;
+   color: rgb(255, 255, 255);
+ 
+}
+#lan-btn{
+    border: 2px solid;
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 150px;
+    background: none
+} 
+#lan-btn:hover{
+    background-color: aliceblue;
+    color: black;
+}
+
+.nxt-one{
+    display: flex; 
+    flex-direction: column;
+    gap: 0px;
+}   
+
+.nxt-two{
+    display: flex; 
+    flex-direction: column;
+    gap: 0px;
+}  
+.nxt-three{
+    display: flex; 
+    flex-direction: column;
+    gap: 0px;
+}  
+.nxt-four{
+    display: flex; 
+    flex-direction: column;
+    gap: 0px;
+}  
+.ftr-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+    color: white;
+    width:100%;
+    height:100px;
+    position: relative;
+    top: 1760px;
+    left:0px;
+ background-color: black;
+}
